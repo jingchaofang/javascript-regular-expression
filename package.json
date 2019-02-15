@@ -1,0 +1,26 @@
+{
+  "name": "javascript-regular-expression",
+  "version": "1.0.0",
+  "description": "javascript regular expression",
+  "main": "dist/regular.cjs.js",
+  "module": "dist/regular.esm.js",
+  "browser": "dist/regular.umd.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -cw",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingchaofang/javascript-regular-expression.git"
+  },
+  "author": "jingchaofang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jingchaofang/javascript-regular-expression/issues"
+  },
+  "homepage": "https://github.com/jingchaofang/javascript-regular-expression#readme",
+  "devDependencies": {
+    "rollup": "^1.1.2"
+  }
+}
