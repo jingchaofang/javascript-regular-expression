@@ -9,3 +9,10 @@ npm i -D rollup
 npm run build
 npm run dev
 npm run test
+
+
+## related
+
+[wangdoc](https://wangdoc.com/javascript/stdlib/regexp.html)
+
+[es6.ruanyifeng](http://es6.ruanyifeng.com/#docs/regex)
